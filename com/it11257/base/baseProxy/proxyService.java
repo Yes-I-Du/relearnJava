@@ -9,4 +9,7 @@ public interface proxyService {
     public void study();
 
     public void show1();
+
+    void createUser(String name);
+    void deleteUser(int id);
 }

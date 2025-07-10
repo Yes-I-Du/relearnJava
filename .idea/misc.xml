@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/base_clazz/pom.xml" />
         <option value="$PROJECT_DIR$/base/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBase/pom.xml" />
       </list>
     </option>
   </component>
